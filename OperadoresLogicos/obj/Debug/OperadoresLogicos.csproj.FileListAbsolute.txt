@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb

@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\bin\Debug\Matrices.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\bin\Debug\Matrices.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\bin\Debug\Matrices.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\obj\Debug\Matrices.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Matrices\obj\Debug\Matrices.pdb

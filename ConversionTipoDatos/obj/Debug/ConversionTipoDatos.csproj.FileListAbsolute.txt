@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\bin\Debug\ConversionTipoDatos.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\bin\Debug\ConversionTipoDatos.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\bin\Debug\ConversionTipoDatos.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConversionTipoDatos\obj\Debug\ConversionTipoDatos.pdb

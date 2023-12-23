@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\bin\Debug\DatosPrimitivos.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\bin\Debug\DatosPrimitivos.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\bin\Debug\DatosPrimitivos.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\obj\Debug\DatosPrimitivos.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\obj\Debug\DatosPrimitivos.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\obj\Debug\DatosPrimitivos.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\DatosPrimitivos\obj\Debug\DatosPrimitivos.pdb

@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\bin\Debug\MetodosArgumentosEj.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\bin\Debug\MetodosArgumentosEj.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\bin\Debug\MetodosArgumentosEj.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\obj\Debug\MetodosArgumentosEj.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\obj\Debug\MetodosArgumentosEj.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\obj\Debug\MetodosArgumentosEj.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\MetodosArgumentosEj\obj\Debug\MetodosArgumentosEj.pdb

@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\bin\Debug\ConsoleTest_Basic.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\bin\Debug\ConsoleTest_Basic.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\bin\Debug\ConsoleTest_Basic.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\obj\Debug\ConsoleTest_Basic.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\obj\Debug\ConsoleTest_Basic.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\obj\Debug\ConsoleTest_Basic.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\ConsoleTest_Basic\obj\Debug\ConsoleTest_Basic.pdb

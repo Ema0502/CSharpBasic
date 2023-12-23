@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\bin\Debug\EstructuraSelectiva.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraSelectiva\obj\Debug\EstructuraSelectiva.pdb

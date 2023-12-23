@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\bin\Debug\CondicionIF.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\bin\Debug\CondicionIF.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\bin\Debug\CondicionIF.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\obj\Debug\CondicionIF.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\obj\Debug\CondicionIF.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\obj\Debug\CondicionIF.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\CondicionIF\obj\Debug\CondicionIF.pdb

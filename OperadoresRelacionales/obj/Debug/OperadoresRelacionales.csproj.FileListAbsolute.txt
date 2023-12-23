@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.pdb

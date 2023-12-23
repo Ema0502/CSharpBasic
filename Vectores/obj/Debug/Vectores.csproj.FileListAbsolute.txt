@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\bin\Debug\Vectores.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\bin\Debug\Vectores.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\bin\Debug\Vectores.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\obj\Debug\Vectores.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\Vectores\obj\Debug\Vectores.pdb

@@ -1,0 +1,7 @@
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\bin\Debug\EstructuraCiclicaDoWhile.exe.config
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\bin\Debug\EstructuraCiclicaDoWhile.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\bin\Debug\EstructuraCiclicaDoWhile.pdb
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.csproj.AssemblyReference.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.csproj.CoreCompileInputs.cache
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.exe
+D:\SoyHenry - Cursada\C#\Solution_ConsoleTest_Basic\EstructuraCiclicaDoWhile\obj\Debug\EstructuraCiclicaDoWhile.pdb
